@@ -30,7 +30,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="auto" alt="javascript logo"  />
-  <img width="42" height= "auto"/>
+  <img width="42" height= "40"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
