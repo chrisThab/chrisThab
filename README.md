@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<div display="flex" justify-content="center" gap="40px" align="center" width="100%">
+<div display="flex" justify-content="center" gap="40px" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<div align="center" width="100%" height="48px" display="flex">
+<div align="center" height="48px" display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="42" alt="javascript logo"  />
   <img width="42" />
   <img src="https://skillicons.dev/icons?i=css" height="40" width="42" alt="css3 logo"  />
